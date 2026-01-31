@@ -1,0 +1,1 @@
+<p align="center"><img src="https://raw.githubusercontent.com/23f3002742/23f3002742/refs/heads/main/res/ico/4c410126f30d4ee0750d808cd8c9d3a77f81a85bf92320f822c5e9e30600b749.png" width="1204" height="791" alt="certificate"></p>
